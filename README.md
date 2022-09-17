@@ -1,5 +1,5 @@
 # Asilbek
-<a href="https://t.me/asilbekbakhrom"><img src="sticker.png" align="right" height="200"/></a>
+<a href="https://t.me/asilbekbakhrom"><img src="https://github.com/shukhratutaboev/shukhratutaboev/raw/main/memoji.png" align="right" height="200"/></a>
 
 # Hi there, I'm Asilbek 👋
 
