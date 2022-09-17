@@ -17,7 +17,7 @@
 <h1> 👨🏻‍💻 Me now </h1>
 
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 👨‍🏫 &nbsp; Learning programming at [Teorema]
+  - 👨‍🏫 &nbsp; Learning math at Teorema
   - 👨‍🏫 &nbsp; Learning programming at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/wahidsblog)
 - 🌱 &nbsp; Learning .NET.
