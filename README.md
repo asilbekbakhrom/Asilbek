@@ -19,7 +19,7 @@
 - ⌛️ &nbsp; Currently I'm busy with:
   - 👨‍🏫 &nbsp; Learning math at Teorema
   - 👨‍🏫 &nbsp; Learning programming at [Ilmhub IT School](https://ilmhub.uz)
-- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/wahidsblog)
+- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/asilbek_bakhrom)
 - 🌱 &nbsp; Learning .NET.
 - 📫 &nbsp; Reach me at: asilbekbakhrom@gmail.com
 
